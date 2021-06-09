@@ -1,0 +1,7 @@
+FirstName - Shradha
+LastName - Jadhav
+Address - Basavaklyan, Dist-Bidar(Karnatak)
+city - Basavaklyan
+State - Karnatak
+PhoneNo - 6363069692
+Email - Shradhabj1824@gmail.com
